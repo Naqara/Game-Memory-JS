@@ -17,6 +17,7 @@ div
     flex-grow: 1;
     height: 33.33vh;
     border: 4px solid white;
+    background-color: #000;
 }
 
 @media (orientation: portrait)
